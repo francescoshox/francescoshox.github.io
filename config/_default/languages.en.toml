@@ -13,8 +13,10 @@ dateFormat = "2 January 2006"
 ["params.author"]
 name = "Francesco M. Ruscio"
 image = "img/IMG_4044.jpg"
-headline = "PhD @ AITHYRA | Founder"
-bio = "Where?"
+headline = "PhD @ AITHYRA | Founder @ Crumbles Street"
 links = [
+    { email = "mailto:francescoruscio.research@gmail.com" },
     { github = "https://github.com/francescoshox" },
+    { linkedin = "linkedin.com/in/francesco-maria-ruscio-62b41a222" },
+    { x-twitter = "https://x.com/francescoshox" }
   ]

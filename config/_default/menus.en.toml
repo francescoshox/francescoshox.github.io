@@ -1,7 +1,6 @@
 [[main]]
   name = "Publications"
   pageRef = "publications"
-  pre="file-lines"
 #   weight = 30
 
 
