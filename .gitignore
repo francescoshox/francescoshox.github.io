@@ -1,6 +1,7 @@
 #others
 node_modules
 .hugo_build.lock
+resources/_gen/
 
 # OS generated files
 .DS_Store
