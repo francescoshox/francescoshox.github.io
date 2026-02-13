@@ -1,5 +1,14 @@
 [[main]]
-none = "none"
+  name = "Publications"
+  pageRef = "publications"
+  pre="file-lines"
+#   weight = 30
+
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+
 
 [[footer]]
 none = "none"
